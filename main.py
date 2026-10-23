@@ -219,4 +219,4 @@ text_area = tk.Text(
 )
 text_area.pack(pady=10)
 # Run application
-root.mainloop()
+root.mainloop(
